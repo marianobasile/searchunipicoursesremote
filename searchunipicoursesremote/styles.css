@@ -1,0 +1,8 @@
+.block_searchunipicoursesremote .yui3-aclist-input{
+	width: 0,90em;
+}
+.block_searchunipicoursesremote .yui3-aclist{
+	overflow:auto;
+	max-height:260px;
+}
+
